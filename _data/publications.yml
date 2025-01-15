@@ -1,22 +1,19 @@
 main:
 
-  - title: Continual Learning for Abdominal Multi-Organ and Tumor Segmentation
-    authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
-    conference_short: MICCAI
-    conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
-    pdf: https://arxiv.org/pdf/2306.00988.pdf
-    code: https://github.com/MrGiovanni/ContinualLearning
-    bibtex: https://bib.yliu.me/MICCAI23.txt
+  - title: GES: A New Building Damage Data Augmentation and Detection Method Based on Extremely Imbalanced Data and Unique Spatial Distribution of Satellite Images
+    authors: Xiaopeng Sha; Zhoupeng Guo; Xinqi Sang; Shuyu Wang; Yuliang Zhao, <strong>Xiaopeng Sha*</strong>, Zhoupeng Guo* (*Corresponding authors)
+    Journal_short: I-JSTARS
+    conference: IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing <strong>(I-JSTARS)</strong>, 2024.
+    pdf: https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4609443
+    code: https://github.com/GZPLHJ181107/GES
     image: ./assets/img/teaser_example_2.png
-    notes: Early Accept
+    notes: Accept
 
-  - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
-    authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
-    conference_short: CVPR
-    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
-    pdf: https://arxiv.org/pdf/2002.10211.pdf
-    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-    page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-    notes: Oral Presentation
+  - title: "PBTA: Partial Break Triplet Attention Model for Small Pedestrian Detection Based on Vehicle Camera Sensors"
+    authors:  Xiaopeng Sha，<strong>Zhoupeng Guo</strong>, Zheng Guan, Wenchao Li, Shuyu Wang, Yuliang Zhao
+    Journal_short: IEE-Sensors
+    conference: IEEE Sensors Journal, 2024.
+    pdf: https://ieeexplore.ieee.org/document/10530563
+    code: https://github.com/GZPLHJ/PBTA
+    notes: Accept
     image: ./assets/img/teaser_example.png
